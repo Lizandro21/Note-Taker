@@ -52,7 +52,6 @@ The following API routes should be created:
 ---
 Here are some pictures! 
 ![Screenshot1](https://i.postimg.cc/pLBcvqgC/image.png)
-![Screenshot2](![image](https://user-images.githubusercontent.com/101906202/200266450-63141c52-2b4a-443b-9c6d-9fed87f37a44.png)]())
 ![Screenshot3](https://i.postimg.cc/wvNhqB1z/image.png)
 ---
 [Note Taker Working Website!](https://morning-lake-75867.herokuapp.com/)
