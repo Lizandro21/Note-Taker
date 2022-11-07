@@ -34,16 +34,6 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-
-## Mock-Up
-
-The following images show the web application's appearance and functionality:
-
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
-
-![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
-
-
 ## Getting Started
 
 On the back end, the application should include a `db.json` file that will be used to store and retrieve notes using the `fs` module.
@@ -61,11 +51,11 @@ The following API routes should be created:
 * `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you).
 ---
 Here are some pictures! 
-![Screenshot1]()
-![Screenshot2]()
-![Screenshot3]()
+![Screenshot1](https://i.postimg.cc/pLBcvqgC/image.png)
+![Screenshot2](![image](https://user-images.githubusercontent.com/101906202/200266450-63141c52-2b4a-443b-9c6d-9fed87f37a44.png)]())
+![Screenshot3](https://i.postimg.cc/wvNhqB1z/image.png)
 ---
-[LunarTuner Working Website!]()
-[LunarTuner Repo!](https://github.com/videogame-reviewer/videogame_reviewer)
+[Note Taker Working Website!](https://morning-lake-75867.herokuapp.com/)
+[Note Taker Repo!](https://github.com/Lizandro21/Note-Taker)
 
 This is the link to the working website.
